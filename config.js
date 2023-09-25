@@ -8,11 +8,11 @@ import axios from 'axios'
 
 global.owner = [
   ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['6281255369065', 'Gandu', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
+global.mods = ['917605902011','3246024864656'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -48,15 +48,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'Jarvis'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.packname = 'JARVIS' 
+global.author = '@splitrekt' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/splitzrekt\n' 
+global.dygp = 'https://chat.whatsapp.com/LInqwBMmzQu5ouhvBoCEVf'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'N/A'
+global.fgpyp = 'N/A'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 
